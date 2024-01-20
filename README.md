@@ -1,5 +1,5 @@
 
-# Project: House Prices Analysis and Prediction: 
+# House Prices Analysis and Prediction
 # Project Overview:
 
 * Created a predictive tool that estimates house prices in Ames, USA. This can be useful for both amateur buyers and real estate agents.
